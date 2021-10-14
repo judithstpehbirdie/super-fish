@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="MW;QITlIbvQUpRv#_h*8" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="t5binR[h%q|?ntd|ew|6">mySprite</variable></variables><block type="pxt-on-start" id="MW;QITlIbvQUpRv#_h*8" x="0" y="0"><statement name="HANDLER"><block type="tilemap_editor" id="u04T.a-A1.tRI/KFp`Xo"><field name="tilemap">tilemap`level1`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level1"}}</data></block></statement></block></xml>
